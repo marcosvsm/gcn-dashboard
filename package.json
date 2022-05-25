@@ -1,5 +1,5 @@
 {
-  "name": "vue-material-dashboard-pro",
+  "name": "@my-org/vue-material-dashboard-pro",
   "version": "1.4.0",
   "private": true,
   "scripts": {
